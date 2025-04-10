@@ -457,7 +457,7 @@ className={`w-text cl7jefz c341xsy c11dowh9 c1nj04wn c1nitjp7 c195lvp6 c1hr6a6t 
 </Text>
 <Text
 className={`w-text`}>
-{"Latest integration"}
+{"Nexgrow lab - Software Solutions"}
 </Text>
 </Link>
 <Heading
@@ -467,11 +467,11 @@ className={`w-heading c11nr3ex cy1haag c32myit cwrra4i c4rpps8 c1d23h5a cnu4kgu 
 {""}
 <br />
 {""}
-{"rankings with AI."}
+{"business with us."}
 </Heading>
 <Paragraph
 className={`w-paragraph c16xpvrq c1qom380 c3fmn7t c1357293 c9jnjeu czt9u4x c1dhz37v`}>
-{"Elevate your site’s visibility effortlessly with AI, where smart technology meets user-friendly SEO tools."}
+{"Elevate your business with an agency that know how do it. We have presense in more than 12 countries."}
 </Paragraph>
 <Box
 className={`w-box c76ugon c1va7jp0 c18xibj9 ccn5ruk c6d3y84 cax3zcx c1le23sj c40yjke c1kzn7na c17q2jvf csugexd cciu1th co2lzyj cghs7z1 c18xchlu ckqzz7r`}>
