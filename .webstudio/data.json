@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "d059172f-5823-4c1a-91af-2edecf594665",
+    "id": "28a3b44d-ff2b-4af0-835d-fc5d70baaffb",
     "projectId": "0abe1a60-558d-4da7-9fe6-84e9bbf4f3cc",
-    "version": 5,
-    "createdAt": "2025-04-09T23:49:16.861+00:00",
-    "updatedAt": "2025-04-09T23:49:16.861+00:00",
+    "version": 8,
+    "createdAt": "2025-04-10T00:06:32.521+00:00",
+    "updatedAt": "2025-04-10T00:06:32.521+00:00",
     "pages": {
       "meta": {
         "faviconAssetId": "93855c4cc520ed55dbe42dc663eaa7836ce1704f8844f12794ef802e3bd923ee"
@@ -42218,7 +42218,7 @@
             },
             {
               "type": "text",
-              "value": "rankings with AI."
+              "value": "business with us."
             }
           ]
         }
@@ -42232,7 +42232,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Elevate your site’s visibility effortlessly with AI, where smart technology meets user-friendly SEO tools."
+              "value": "Elevate your business with an agency that know how do it. We have presense in more than 12 countries."
             }
           ]
         }
@@ -47942,7 +47942,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Latest integration"
+              "value": "Nexgrow lab - Software Solutions"
             }
           ]
         }
